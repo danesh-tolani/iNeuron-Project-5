@@ -6,6 +6,11 @@ The most challenging things were:
 
 - Adjusting the image properly
 
-It took me **2 Hours** to complete this project
+It took me **2.5 Hours** to complete this project
 
-[Project 5]()
+![](https://img.shields.io/badge/PREVIEW-IMAGE-green)
+![](5.png)
+
+### Click on the below link to checkout the deployed website
+
+[![](https://img.shields.io/badge/LIVE-WEBSITE-blue)](https://crypto-landing-page-danesh.netlify.app/)
